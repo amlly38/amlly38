@@ -1,10 +1,9 @@
 ## Hi, I'm Amaliyah!👋
-<p align="center">
 <samp>
   🎓I'm an information system student at Singaperbangsa Karawang University<br>
   🌐Interested in Frontend Website Development<br>
-  🚀Currently learning to become a Full-Stack Developer using JavaScript! <br>
-  👯‍♂️I'm looking for collaborate on website projects. <br>
+  🚀Currently learning to become a Full-Stack Developer using JavaScript in Vocasia <br>
+  👯‍♂️I'm looking for collaborate on website projects <br>
 </samp>
 
 ### 💻 Tech Stack:
@@ -12,8 +11,8 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amlly38&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amlly38&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amlly38&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amlly38&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amlly38&theme=radical&hide_border=false)
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yh3h7wjt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amlly38_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaliyah03/) 
