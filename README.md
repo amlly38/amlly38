@@ -1,4 +1,4 @@
-# Hi, I'm Amaliyah!👋
+# Hi there! I'm Amaliyah👋
 
   🎓 I'm an Information System Student at Singaperbangsa Karawang University<br>
   🚀 Currently learning to become a Full-Stack Developer using JavaScript on Vocasia <br>
