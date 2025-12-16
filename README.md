@@ -1,9 +1,10 @@
 # Hi there! I'm Amaliyah👋
 
-  🎓 I'm an Information System Student at Singaperbangsa Karawang University<br>
-  🚀 Currently learning to become a Full-Stack Developer using JavaScript on Vocasia <br>
-  🌐 Interested in Website Development<br>
-  👯‍♂️ I'm looking for collaborate on website projects <br>
+  🎓 Information Systems undergraduate at Singaperbangsa Karawang University<br>
+  💻 Fullstack Web Developer (MERN Stack) with hands-on project experience<br>
+  🎨 Experienced in UI/UX Design and Data Visualization<br>
+  🏛️ Former Information Systems & Data Visualization Intern at Diskominfo Karawang<br>
+  🤝 Open to collaboration on web-based projects<br>
 
 ## 💻 Tech Stack:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
