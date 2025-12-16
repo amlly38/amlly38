@@ -26,9 +26,6 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
   ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat&logo=alibabacloud&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amlly38&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amlly38&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amlly38&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo
